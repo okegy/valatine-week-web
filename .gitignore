@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Local tooling
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Netlify
+.netlify/
